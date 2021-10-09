@@ -101,7 +101,7 @@ nav a:focus {
   position: relative;
 }
 
-.icon svg {
+.icon img {
   left: 0;
   height: 100%;
   position: absolute;
