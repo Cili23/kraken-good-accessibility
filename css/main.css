@@ -108,6 +108,8 @@ nav a:focus {
   top: 0;
   width: 100%;
   fill: currentColor;
+  outline-color: #fff
+
 }
 
 nav i {
